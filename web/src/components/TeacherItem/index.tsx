@@ -1,7 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-
-import PageHeader from '../../components/PageHeader';
 
 import whatsappIcon from '../../assets/images/icons/whatsapp.svg';
 

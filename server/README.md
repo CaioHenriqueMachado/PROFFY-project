@@ -6,7 +6,8 @@ express (Para)
 express (pacote de TS) (-D) 
 knex
 sqlite 3
-
+cors
+cors(-D)
 
 CASOS DE USO:
 
@@ -23,3 +24,4 @@ Fitrar por materia, dia semana e horario
 
 COMANDOS ALTERADOS:
 npm start
+npm run knex:migrate

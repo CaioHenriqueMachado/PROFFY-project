@@ -1,35 +1,56 @@
 import React from 'react';
+import api from '../../services/api';
 
 import whatsappIcon from '../../assets/images/icons/whatsapp.svg';
 
 import './styles.css';
 
-function TeacherItem() {
+
+export interface Teacher {
+  id: number;
+  avatar: string;
+  bio: string;
+  cost: number;
+  name: string;
+  subject: string;
+  whatsapp: string;
+}
+
+interface TeacherItemProps {
+  teacher: Teacher;
+}
+
+const TeacherItem: React.FC<TeacherItemProps> = ( { teacher } ) => {
+  function createNewConnection() {
+    api.post('connections', {
+      user_id: teacher.id
+    })
+  }
   return (
     <article className="teacher-item">
       <header>
-        <img src="https://avatars0.githubusercontent.com/u/42723723?s=460&u=bd4caed80f422f22da8c8f2020468a9d6d3cd699&v=4" alt="Caio Henrique"/>
+        <img src={teacher.avatar} alt={teacher.name}/>
         <div>
-          <strong>Caio Henrique</strong>
-          <span>Matemática</span>
+        <strong>{teacher.name}</strong>
+          <span>{teacher.subject}</span>
         </div>
       </header>
 
-      <p>
-        Aqui é o primeiro paragrafo.
-        <br /> <br />
-        Esse aqui é um texto de mentira onde eu falo qualquer coisa que vem (batata) na minha cabeça.
-      </p>
+      <p>{teacher.bio}</p>
 
       <footer>
         <p>
           Preço/Hora 
-          <strong>R$ 80,00</strong>
+          <strong>R$ {teacher.cost}</strong>
         </p>
-        <button type="button">
+        <a 
+          target="_blank"
+          onClick={createNewConnection} 
+          href={`https://wa.me/${teacher.whatsapp}`}
+        >
           <img src={whatsappIcon} alt="Whatsapp"/>
           Entrar em contato.
-        </button>
+        </a>
       </footer>
     </article>
   );

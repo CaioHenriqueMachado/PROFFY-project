@@ -1,0 +1,9 @@
+npm start
+
+package:
+expo
+expo-font
+react-navigation
+
+instalando fonts:
+expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins

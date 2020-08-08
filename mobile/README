@@ -5,6 +5,7 @@ expo
 expo-font
 react-navigation
 axios
+expo-asyncStorage
 
 instalando fonts:
 expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins

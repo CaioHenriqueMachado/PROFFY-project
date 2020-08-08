@@ -1,7 +1,4 @@
-<h1 align="center">
-<br>
-  <img src="./img/top.png" alt="Proffys" width="100%">
-<br>
+<img src="./img/top.png" alt="Proffys" width="100%">
 <br>
 <p align="center">Mobile and web application of aulas onlines, built in one week Omnistack</p>
   <img src="./img/line.png" alt="line" width="100%">
@@ -21,7 +18,10 @@
 
   <img src="./img/line.png" alt="line" width="100%">
 <br>
-## Features
+
+<br>
+  <h2 align="center">FEATURES :book:</h2>
+<br>
 
 This app features all the latest tools and practices in mobile development!
 
@@ -29,8 +29,12 @@ This app features all the latest tools and practices in mobile development!
 - ⚛️ **React Native** 	- A lib that provides a way to create native apps for Android and iOS
 - 💹 **Node Js** 	- A web framework for Node Js
 - 📄 **SQlite** 		- A cross-platform and open-source Structured Query Language.
+- 📊 **Knex Js** 		- Dependency for using the database.
 - ☯️ **Insomnia** 	- HTTP request software and with open source.
 - 🔄 **Nodemon** 	- Reload server automatically.
+- ⚠️ **Cors** 	- Dependency so you don't have access to external links.
+- 🔀 **Axios** 	- Promise based HTTP client.
+
 
 ## Getting started
 

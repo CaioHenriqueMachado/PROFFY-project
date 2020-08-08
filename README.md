@@ -19,18 +19,35 @@
 <table width="100%">
   <tr>
     <td>
-      <div align="center" width="30%">
-        <img src="./img/mobile/Home.svg" alt="Home" height="200" width="100%">
+      <div align="center">
+        <img src="./img/mobile/Home.svg" alt="Home" height="400" width="100%">
       </div>
     </td>
     <td>
-      <div align="center" width="30%">
-        <img src="./img/mobile/Favoritos.svg" alt="Favorite" height="200" width="100%">
+      <div align="center">
+        <img src="./img/mobile/Apresentaton1.svg" alt="Apresentation 1" height="400" width="100%">
       </div>
     </td>
     <td>
-      <div align="center" width="30%">
-        <img src="./img/mobile/Filter.svg" alt="Calculate X Simulate Alpha 15 Beta 60" height="200" width="100%">
+      <div align="center">
+        <img src="./img/mobile/Apresentaton1.svg" alt="Apresentation 2" height="400" width="100%">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="./img/mobile/Filter.svg" alt="Filter" height="400" width="100%">
+      </div>
+    </td>
+        <td>
+      <div align="center">
+        <img src="./img/mobile/contact.svg" alt="After filter" height="400" width="100%">
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="./img/mobile/Favoritos.svg" alt="Favorite" height="400" width="100%">
       </div>
     </td>
   </tr>

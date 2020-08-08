@@ -8,9 +8,9 @@ import styles from './styles';
 
 function TeacherList(){
   return (
-  <View style={styles.container} >
-    <PageHeader />
-  </View>
+    <View style={styles.container} >
+      <PageHeader title="Proffs Disponíveis"/>
+    </View>
   )}
 
 export default TeacherList;

@@ -13,7 +13,12 @@ const styles = StyleSheet.create({
   },
 
   title: {
-    fontFa
+    fontFamily: 'Archivo_700Bold',
+    color: '#FFF',
+    fontSize: 24,
+    lineHeight: 32,
+    maxWidth: 160,
+    marginVertical: 40,
   }
 
 })

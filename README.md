@@ -68,7 +68,7 @@
   <tr>
     <td>
       <div align="center">
-        <img src="./img/web/teacher.png" alt="Page Teacher" height="400" width="100%">
+        <img src="./img/web/teacher.png" alt="Page Teacher" height="800" width="100%">
       </div>
     </td>
   </tr>
@@ -99,7 +99,8 @@ This app features all the latest tools and practices in mobile development!
 - 🔄 **Nodemon** 	- Reload server automatically.
 - ⚠️ **Cors** 	- Dependency so you don't have access to external links.
 - 🔀 **Axios** 	- Promise based HTTP client.
-  <img src="./img/line.png" alt="line" width="100%">
+
+<img src="./img/line.png" alt="line" width="100%">
 <br>
 
 ## Getting started

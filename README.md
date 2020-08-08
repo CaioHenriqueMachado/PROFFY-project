@@ -12,10 +12,7 @@
 
 
 <h1 align="center">Mobile Version</h1>
-
-
-
-
+<div align="center">
 <table width="100%">
   <tr>
     <td>
@@ -25,12 +22,12 @@
     </td>
     <td>
       <div align="center">
-        <img src="./img/mobile/Apresentaton1.svg" alt="Apresentation 1" height="400" width="100%">
+        <img src="./img/mobile/Apresentation1.svg" alt="Apresentation 1" height="400" width="100%">
       </div>
     </td>
     <td>
       <div align="center">
-        <img src="./img/mobile/Apresentaton1.svg" alt="Apresentation 2" height="400" width="100%">
+        <img src="./img/mobile/Apresentation2.svg" alt="Apresentation 2" height="400" width="100%">
       </div>
     </td>
   </tr>
@@ -52,7 +49,38 @@
     </td>
   </tr>
 </table>
+</div>
 
+  <img src="./img/line.png" alt="line" width="100%">
+<br>
+
+
+<h1 align="center">Web responsive Version </h1>
+<div align="center">
+<table width="100%">
+  <tr>
+    <td>
+      <div align="center">
+        <img src="./img/web/home.png" alt="Home" height="400" width="100%">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="./img/web/teacher.png" alt="Page Teacher" height="400" width="100%">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="./img/web/list.png" alt="Page list teacher" height="400" width="100%">
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
   <img src="./img/line.png" alt="line" width="100%">
 <br>
 
@@ -71,7 +99,8 @@ This app features all the latest tools and practices in mobile development!
 - 🔄 **Nodemon** 	- Reload server automatically.
 - ⚠️ **Cors** 	- Dependency so you don't have access to external links.
 - 🔀 **Axios** 	- Promise based HTTP client.
-
+  <img src="./img/line.png" alt="line" width="100%">
+<br>
 
 ## Getting started
 

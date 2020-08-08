@@ -16,21 +16,21 @@
 
 
 
-<table>
+<table width="100%">
   <tr>
     <td>
-      <div align="center">
-        <img src="./img/mobile/Home.svg" alt="Calculate X Simulate Alpha 05 Beta 60" height="200" width="30%">
+      <div align="center" width="30%">
+        <img src="./img/mobile/Home.svg" alt="Home" height="200" width="100%">
       </div>
     </td>
     <td>
-      <div align="center">
-        <img src="./img/mobile/Favoritos.svg" alt="Calculate X Simulate Alpha 10 Beta 60" height="200" width="30%">
+      <div align="center" width="30%">
+        <img src="./img/mobile/Favoritos.svg" alt="Favorite" height="200" width="100%">
       </div>
     </td>
     <td>
-      <div align="center">
-        <img src="./img/mobile/Filter.svg" alt="Calculate X Simulate Alpha 15 Beta 60" height="200" width="30%">
+      <div align="center" width="30%">
+        <img src="./img/mobile/Filter.svg" alt="Calculate X Simulate Alpha 15 Beta 60" height="200" width="100%">
       </div>
     </td>
   </tr>

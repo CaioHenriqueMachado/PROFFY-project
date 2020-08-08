@@ -31,6 +31,7 @@
 
 html, body, #root {
   height: 100vh;
+  background-color: var(--color-text-in-primary);
 }
 
 body {

@@ -1,20 +1,40 @@
 <img src="./img/top.png" alt="Proffys" width="100%">
-<br>
-<p align="center">Mobile and web application of aulas onlines, built in one week Omnistack</p>
-  <img src="./img/line.png" alt="line" width="100%">
-<br>
+
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
   </a>
 </p>
 
-<h1 align="center">Web Version</h1>
-<div>
-</div>
+<p align="center">Mobile and web application of aulas onlines, built in one week Omnistack</p>
+  <img src="./img/line.png" alt="line" width="100%">
+<br>
+
+
 <h1 align="center">Mobile Version</h1>
-<div align="center">
-</div>
+
+
+
+
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="./img/mobile/Home.svg" alt="Calculate X Simulate Alpha 05 Beta 60" height="200" width="30%">
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="./img/mobile/Favoritos.svg" alt="Calculate X Simulate Alpha 10 Beta 60" height="200" width="30%">
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="./img/mobile/Filter.svg" alt="Calculate X Simulate Alpha 15 Beta 60" height="200" width="30%">
+      </div>
+    </td>
+  </tr>
+</table>
 
   <img src="./img/line.png" alt="line" width="100%">
 <br>

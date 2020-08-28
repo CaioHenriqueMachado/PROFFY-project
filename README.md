@@ -13,42 +13,9 @@
 
 <h1 align="center">Mobile Version</h1>
 <div align="center">
-<table width="100%">
-  <tr>
-    <td>
-      <div align="center">
-        <img src="./img/mobile/Home.svg" alt="Home" height="400" width="100%">
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <img src="./img/mobile/Apresentation1.svg" alt="Apresentation 1" height="400" width="100%">
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <img src="./img/mobile/Apresentation2.svg" alt="Apresentation 2" height="400" width="100%">
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div align="center">
-        <img src="./img/mobile/Filter.svg" alt="Filter" height="400" width="100%">
-      </div>
-    </td>
-        <td>
-      <div align="center">
-        <img src="./img/mobile/contact.svg" alt="After filter" height="400" width="100%">
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <img src="./img/mobile/Favoritos.svg" alt="Favorite" height="400" width="100%">
-      </div>
-    </td>
-  </tr>
-</table>
+
+<img src="./img/web/post.png" alt="Home" height="600" width="100%">
+
 </div>
 
   <img src="./img/line.png" alt="line" width="100%">
